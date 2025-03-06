@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amin Mahdi - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">Amin Mahdi</h1>
+        <p id="subtitle">Cyber Security Specialist & Back-End Web Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I specialize in cyber security and backend web development, providing secure and scalable solutions.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Secure authentication system for clients.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Backend API for a fintech startup.</p>
+        </div>
+    </section>
+
+    <section id="reviews">
+        <h2>Client Reviews</h2>
+        <div class="review-slider">
+            <div class="review">⭐⭐⭐⭐⭐ "Amin is an expert in cybersecurity. Highly recommend!"</div>
+            <div class="review">⭐⭐⭐⭐⭐ "The best backend developer I've worked with!"</div>
+            <div class="review">⭐⭐⭐⭐⭐ "Very professional and delivers on time!"</div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>LinkedIn: <a href="#">Your LinkedIn</a></p>
+        <p>GitHub: <a href="#">Your GitHub</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Amin Mahdi. All Rights Reserved.</p>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
